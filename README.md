@@ -7,7 +7,7 @@ LPB pisowifi password cracking tool.
 <img src="https://github.com/7wp81x/Zytra/blob/main/" width="130%" height="130%">
 <br>
 
-## Kali linux/Ubuntu etc.
+## Kali linux/Ubuntu etc. Installation
 ```
 sudo su
 apt install git python3 -y
